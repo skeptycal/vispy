@@ -31,6 +31,6 @@
   },
   "dependencies": {
     "@jupyter-widgets/base": "^1.1.10",
-    "lodash": "^4.17.10"
+    "lodash": "^4.17.21"
   }
 }
